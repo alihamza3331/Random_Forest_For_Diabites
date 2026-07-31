@@ -1,6 +1,14 @@
-#🚑 Random_Forest Model For Predicting Diabites 🚑
+# 🚑 Random_Forest Model For Predicting Diabites 🚑
 
-https://random-forest-for-diabites.streamlit.app/
+open demo app either clicking on link or copy the url.
+
+Website streamlit app link: [Random_Forest Model App For Predicting Diabites](https://random-forest-for-diabites.streamlit.app/)
+
+or
+
+copy this url: https://random-forest-for-diabites.streamlit.app/
+
+
 
 
 ## 📌 Project Overview
