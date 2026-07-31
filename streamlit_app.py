@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title('🚑 Random_Forest Model For Predicting Diabites 🚑')
 
-st.write('Build By Ali Hamza and thanks to Sir Zafer for teching us how to make app like this')
+st.write('Built by Ali Hamza & a special thanks to Sir Zafar for teaching us how to create apps like this')
 import joblib
 import numpy as np
 import pandas as pd
