@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('🚑 Random_Forest Model For Predicting Diabites 🚑')
 
-st.write('Hello world!')
+st.write('Build By Ali Hamza and thanks to Sir Zafer for teching us how to make app like this')
 import joblib
 import numpy as np
 import pandas as pd
